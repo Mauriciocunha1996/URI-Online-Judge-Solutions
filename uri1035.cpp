@@ -14,6 +14,5 @@ int main(){
     else{
         cout<<"Valores nao aceitos"<<endl;
     }
-
     return 0;
 }
