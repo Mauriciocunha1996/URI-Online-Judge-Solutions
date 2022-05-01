@@ -11,6 +11,7 @@ int main(){
         inteiro = x;
         x = x * 100;
         resto1 = x;
+
         
         cout<<"NOTAS:"<<endl;
         cout<< inteiro / 100 <<" nota(s) de R$ 100.00"<<endl;
