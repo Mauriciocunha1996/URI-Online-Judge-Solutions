@@ -26,7 +26,6 @@ int main(){
         resto = resto % 5;
         cout<<resto / 2  <<" nota(s) de R$ 2.00"<<endl;
         
-        
         cout<<"MOEDAS:"<<endl;
         resto = resto % 2;
         cout<<resto / 1<<" moeda(s) de R$ 1.00"<<endl;
