@@ -12,3 +12,4 @@ int main(){
      cout<<mes[n-1]<<endl;
 
 }
+   
