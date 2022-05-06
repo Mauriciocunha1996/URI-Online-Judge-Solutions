@@ -2,11 +2,11 @@
 
 using namespace std;
 int main(){
-    int a,b,c,d, soma;
+    int T1, T2, T3, T4, soma;
 
-    cin>>a>>b>>c>>d;
+    cin>>T1>>T2>>T3>>T4,
 
-    soma = (a + b + c + d) - 3;
+    soma = (T1 + T2 + T3 + T4) - 3;
 
     cout<<soma<<endl;
 }
